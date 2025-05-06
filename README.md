@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RayOjuka
 - 👀 I’m interested in Tech Stuff, fitness and wellness.
 - 🌱 I’m currently learning a lot of things :-) 
-- 💞️ I’m looking to collaborate on C# and Angular Projects.
+- 💞️ I’m looking to collaborate on C#, JS, React and Angular Projects.
 - 📫 How to reach me LinkedIn
 
 <!---
